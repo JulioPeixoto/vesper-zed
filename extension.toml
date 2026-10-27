@@ -1,0 +1,7 @@
+id = "vesper-zed"
+name = "Vesper Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["Julio Peixoto <juliorafaelnft@hotmail.com>"]
+description = "Peppermint and orange flavored dark theme, ported from Vesper for VS Code."
+repository = "https://github.com/JulioPeixoto/vesper-zed"
